@@ -1,0 +1,104 @@
+.header{
+    flex-direction: row;
+    text-align: right;
+    margin-right: 250px;
+}
+
+
+.navbar{
+    background-color: #00008b;
+}
+
+.one{
+    background-image: url(/images/robot.jpg);
+    position: absolute;
+    background-size:cover;
+    height:90vh;
+    width: 100vw;
+}
+
+.mainsection{
+    height: 90vh;
+}
+
+.mainsection btn{
+    border-radius: 10px;
+}
+
+.image{
+    text-align: left;
+    padding-left: 150px;
+}
+
+.secondsection{
+    height: 80vh;
+    background-color: #F0F0F0;
+}
+
+.mobile{
+    background-image: url(/images/8b270007-44f0-c019-fb28-cc8db72b260e.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 99vw;
+}
+
+.galaxy{
+    text-align: left;
+    padding-left: 150px;
+}
+
+.thirdsection{
+    background-color:#D3D3D3;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.card-img-top{
+    text-align: center;
+    height: 100px;
+    width: 90px;
+}
+
+.cardtwo{
+    background-color: white;
+    border-right: solid white 1px;
+}
+
+
+.list-unstyled{
+    text-align: left;
+}
+
+.lastsection{
+    background-color: #2554C7;
+    padding: 30px 80px 30px 120px ;
+}
+
+.list-unstyled img{
+    height: 40px;
+    padding-top: 10px;
+}
+
+.lastsection a{
+    text-decoration: none;
+}
+
+.logos{
+    text-align: left;
+}
+
+.logos img{
+    height: 30px;
+    padding-right: 30px;
+}
+
+.two{
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.three{
+    font-size: 13px;
+    padding-top: 1px;
+}
